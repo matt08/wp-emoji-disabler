@@ -1,2 +1,2 @@
-# wp-emoji-disabler
-WordPress Emoji Disabler Plugin
+# WordPress Emoji Disabler Plugin
+Disable WordPress Emoji
